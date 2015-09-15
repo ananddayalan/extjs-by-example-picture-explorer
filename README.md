@@ -1,3 +1,5 @@
+# Extjs by example : Picture Explorer
+
 This "Picture Explorer" is one of the sample projects detailed in the book "[ExtJS by Example](https://www.packtpub.com/web-development/ext-js-example)".
 This sample application uses ExtJS 6 and GoLang. To run this sample application, simply clone or download, and run the following command in terminal window and open localhost:9000 in the browser. 
 
